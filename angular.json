@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-checkbox"
+    }
+  },
+  "defaultProject": "ng-checkbox",
+  "cli": {
+    "analytics": false
+  }
 }
